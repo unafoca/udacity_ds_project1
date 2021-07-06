@@ -1,6 +1,10 @@
 ## Table of content
 
-1.[test](unafoca/udacity_ds_project1#something)
+
+1. [Installation](unafoca/udacity_ds_project1#Installation)
+2. [Project Motivation](unafoca/udacity_ds_project1#Project-Motivation)
+3. [File Descriptions](unafoca/udacity_ds_project1#File Descriptions)
+4. [Licensing, Authors, Acknowledgements](unafoca/udacity_ds_project1#Licensing, Authors, Acknowledgements)
 
 ## Installation
 In order to run the codes successfully, besides the Anaconda distribution of Python, you'll need to install below packages:<br/>
