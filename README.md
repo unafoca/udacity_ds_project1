@@ -27,5 +27,5 @@ The analysis is published in Medium [here](https://cq-w.medium.com/travelers-to-
 ## File Descriptions
 There is one notebook for the codes used to perform the analysis and 3 csv files downloaded from Inside Airbnb as the data sources. Other pictures are output from the codes and are used in the published analysis for demonstration purposes.
 
-##Licensing, Authors, Acknowledgements
+## Licensing, Authors, Acknowledgements
 Thanks to Inside Airbnb for the data. The analysis won't be possible otherwise. You can find the descriptive information and data for other cities [here](http://insideairbnb.com/about.html).
