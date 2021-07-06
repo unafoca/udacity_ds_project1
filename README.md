@@ -1,8 +1,8 @@
 ## Table of content
 
 
-1. [Installation](unafoca/udacity_ds_project1#Installation)
-2. [Project Motivation](unafoca/udacity_ds_project1#Project-Motivation)
+1. [Installation](https://github.com/unafoca/udacity_ds_project1#Installation)
+2. [Project Motivation](https://github.com/unafoca/udacity_ds_project1#Project-Motivation)
 3. [File Descriptions](unafoca/udacity_ds_project1#File Descriptions)
 4. [Licensing, Authors, Acknowledgements](unafoca/udacity_ds_project1#Licensing, Authors, Acknowledgements)
 
